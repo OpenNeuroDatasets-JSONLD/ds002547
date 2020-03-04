@@ -1,3 +1,6 @@
+1.1.0 2020-03-04
+  - Add age to participants.tsv
+  - Add fmriprep/freesurfer/mriqc to derivatives
 1.0.1 2020-03-04
   - Add age to participants.tsv
   - Add fmriprep/freesurfer/mriqc derivatives
