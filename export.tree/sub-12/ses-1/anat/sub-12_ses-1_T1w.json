@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPsT13DTFE_P25_S2_3mSENSE",
+    "SeriesNumber": 4,
+    "AcquisitionNumber": 4,
+    "ImageComments": "PredictingMentalizing",
+    "PhilipsRescaleSlope": 14.2005,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00515985,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00374,
+    "RepetitionTime": 0.008157,
+    "ReconMatrixPE": 240,
+    "ImageOrientationPatientDICOM": [
+        0.998368,
+        0.0512397,
+        0.025197,
+        -0.0509246,
+        0.998618,
+        -0.0129939
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20181125  GCC5.4.0",
+    "BidsifyVersion": "0.3.1",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "BIDSVersion": "1.1.0",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC"
+}
