@@ -1,0 +1,9 @@
+{
+    "SamplingFrequency": 496,
+    "StartTime": -49.52217741935484,
+    "Columns": [
+        "cardiac",
+        "respiratory",
+        "trigger"
+    ]
+}
