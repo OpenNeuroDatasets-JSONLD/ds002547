@@ -4,10 +4,32 @@
     "Levels": {
       "M": "male",
       "F": "female"
+    },
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": ""
+      },
+      "Levels": {
+        "F": {
+          "TermURL": "snomed:248152002",
+          "Label": ""
+        },
+        "M": {
+          "TermURL": "snomed:248153007",
+          "Label": ""
+        }
+      }
     }
   },
   "age": {
-    "Description": "Age of participant, rounded to nearest integer"
+    "Description": "Age of participant, rounded to nearest integer",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      }
+    }
   },
   "validation_session": {
     "Description": "Which session was used for the validation set. For participants with two sessions, the other session was used for exploration.",
