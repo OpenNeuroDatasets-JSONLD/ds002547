@@ -42,5 +42,15 @@
       "2": "The second session was used for validation (the first session was used for exploration)",
       "n/a": "The data was not used for the (validation) analyses"
     }
+  },
+  "participant_id": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      },
+      "Identifies": "participant"
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   }
 }
